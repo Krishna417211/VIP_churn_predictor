@@ -2,10 +2,7 @@
 
 This project is a two-stage machine learning pipeline designed to identify and predict churn for high-value "VIP" customers. The entire model is deployed as an interactive web application using Streamlit.
 
-![Streamlit App Demo](streamlit-demo.png)
-*(**Note:** You'll need to add a screenshot of your app and name it `streamlit-demo.png` in your repository for this image to show up!)*
 
----
 
 ### ## 🎯 The Problem
 Standard customer churn models are often inefficient. They treat all customers equally, sending the same "at-risk" alert for a low-value, one-time buyer as they do for a high-value "VIP."
